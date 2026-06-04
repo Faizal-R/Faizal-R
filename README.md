@@ -250,25 +250,9 @@ Reporting Service    → Analytics & financial reports
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Faizal-R&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&ring_color=6366F1" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizal-R&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" width="38%" />
+<img src="https://streak-stats.demolab.com/?user=Faizal-R&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%" />
 
 </div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Faizal-R&theme=transparent&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=8B949E&stroke=6366F120" width="55%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Faizal-R&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff&area=true&hide_border=true&area_color=6366F130)](https://github.com/Faizal-R)
-
-</div>
-
 ---
 
 ## 📫 Let's Connect
