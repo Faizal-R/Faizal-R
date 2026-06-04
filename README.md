@@ -250,9 +250,17 @@ Reporting Service    → Analytics & financial reports
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Faizal-R&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizal-R&theme=tokyonight" width="95%" />
 
 </div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faizal-R&theme=tokyonight" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faizal-R&theme=tokyonight&utcOffset=5.5" width="45%" />
+
+</div>
+
 ---
 
 ## 📫 Let's Connect
